@@ -1,0 +1,1 @@
+export 'package:hipal/components/visitors/ui/screens/visit_screen.dart';

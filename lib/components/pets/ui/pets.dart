@@ -1,0 +1,1 @@
+export 'package:hipal/components/pets/ui/screens/general.dart';

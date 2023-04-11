@@ -1,0 +1,1 @@
+export 'package:hipal/components/splash/ui/screens/splash_screen.dart';

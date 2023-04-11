@@ -1,0 +1,1 @@
+export 'package:hipal/components/vehicles/ui/screens/general.dart';

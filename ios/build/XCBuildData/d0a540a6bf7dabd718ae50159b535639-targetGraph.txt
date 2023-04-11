@@ -1,0 +1,32 @@
+Target dependency graph (11 targets)
+Flutter in Pods, no dependencies
+TOCropViewController-TOCropViewControllerBundle in Pods, no dependencies
+TOCropViewController in Pods, depends on:
+TOCropViewController-TOCropViewControllerBundle in Pods (explicit)
+flutter_secure_storage in Pods, depends on:
+Flutter in Pods (explicit)
+image_cropper in Pods, depends on:
+Flutter in Pods (explicit)
+TOCropViewController in Pods (explicit)
+image_picker in Pods, depends on:
+Flutter in Pods (explicit)
+libPhoneNumber-iOS in Pods, no dependencies
+libphonenumber in Pods, depends on:
+Flutter in Pods (explicit)
+libPhoneNumber-iOS in Pods (explicit)
+libphonenumber_plugin in Pods, depends on:
+Flutter in Pods (explicit)
+libPhoneNumber-iOS in Pods (explicit)
+libphonenumber in Pods (explicit)
+url_launcher_ios in Pods, depends on:
+Flutter in Pods (explicit)
+Pods-Runner in Pods, depends on:
+Flutter in Pods (explicit)
+TOCropViewController in Pods (explicit)
+flutter_secure_storage in Pods (explicit)
+image_cropper in Pods (explicit)
+image_picker in Pods (explicit)
+libPhoneNumber-iOS in Pods (explicit)
+libphonenumber in Pods (explicit)
+libphonenumber_plugin in Pods (explicit)
+url_launcher_ios in Pods (explicit)
